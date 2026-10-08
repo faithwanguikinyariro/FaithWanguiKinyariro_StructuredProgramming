@@ -1,0 +1,2 @@
+# FaithWanguiKinyariro_StructuredProgramming
+C-Structured-Programming-Assignment
